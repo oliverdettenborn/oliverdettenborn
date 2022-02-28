@@ -130,12 +130,10 @@
 ### Github Stats
 
 <div>
- <p align="left">
+  <p align="left">
     <a href="https://github.com/oliverdettenborn">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverdettenborn&theme=dracula&count_private=true&bg_color=282828&layout=compact"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliverdettenborn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=282828"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverdettenborn&theme=dracula&count_private=true&bg_color=282828&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliverdettenborn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=282828"/>
   </p>
 
   ![Oliver ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=oliverdettenborn&custom_title=Oliver%20Contribution%20Graph&theme=dracula&bg_color=282828&hide_border=true)
