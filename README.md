@@ -17,7 +17,7 @@
   </a>
 </div>
 
-### Tech Stack
+### **Tech Stack**
 
 <div>
   
@@ -127,7 +127,7 @@
   </div>
 </div>
 
-### GitHub Stats
+### **GitHub Stats**
 
 <p>
   <div>
