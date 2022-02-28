@@ -60,7 +60,7 @@
       <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>
     </a>
     <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
+      <img src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" alt="cypress" width="40" height="40"/>
     </a>
     <a href="https://graphql.org" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
@@ -127,14 +127,14 @@
   </div>
 </div>
 
-### Github Stats
+### GitHub Stats
 
-<div>
-  <p align="left">
+<p>
+  <div>
     <a href="https://github.com/oliverdettenborn">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverdettenborn&theme=dracula&count_private=true&bg_color=282828&layout=compact"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliverdettenborn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=282828"/>
-  </p>
+  </div>
 
   ![Oliver ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=oliverdettenborn&custom_title=Oliver%20Contribution%20Graph&theme=dracula&bg_color=282828&hide_border=true)
-</div>
+</p>
