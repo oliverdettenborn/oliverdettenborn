@@ -6,7 +6,7 @@
 - 👨🏽‍💻 I'm always learning something new
 - 🧑🏽‍🏫 I'm pursuing a Bachelor's Degree in Computer Engineering
 - 🔭 I’m currently working with Web Developer focusing on Microservices Architecture
-- 🌱 I’m currently learning about Google Cloud Platform and Python
+- 🌱 I’m currently learning about Java and Spring
 
 <div align="center">
   <a href="https://www.linkedin.com/in/oliverdettenborn/">
