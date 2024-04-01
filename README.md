@@ -4,9 +4,8 @@
 
 - 🏳️‍⚧️ Trans Man (He/His)
 - 👨🏽‍💻 I'm always learning something new
-- 🧑🏽‍🏫 I'm pursuing a Bachelor's Degree in Computer Engineering
-- 🔭 I’m currently working with Web Developer focusing on Microservices Architecture
-- 🌱 I’m currently learning about Java and Spring
+- 🧑🏽‍🏫 I'm pursuing a Bachelor's Degree in Computer Sciense
+- 🔭 I’m currently working with Software Engineer focusing on Microservices Architecture, Clojure and Datomic
 
 <div align="center">
   <a href="https://www.linkedin.com/in/oliverdettenborn/">
