@@ -19,6 +19,8 @@
   </a>
 </div>
 
+<br clear="right">
+
 ---
 
 ## 🛠 Tech Stack
