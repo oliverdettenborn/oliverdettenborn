@@ -26,6 +26,10 @@
 
 [![Backend](https://skillicons.dev/icons?i=clojure,nodejs,py,java,graphql)](https://skillicons.dev)
 
+**Frameworks:**
+
+[![Frameworks](https://skillicons.dev/icons?i=spring,express,nestjs,django)](https://skillicons.dev)
+
 **Frontend:**
 
 [![Frontend](https://skillicons.dev/icons?i=js,ts,react)](https://skillicons.dev)
