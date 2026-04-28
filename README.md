@@ -32,7 +32,7 @@
 [![Mobile](https://skillicons.dev/icons?i=react,dart,flutter)](https://skillicons.dev)
 
 **Databases:**
-[![Databases](https://skillicons.dev/icons?i=postgres,redis,mongodb)](https://skillicons.dev) <a href="https://www.datomic.com/"><img src="https://www.datomic.com/images/datomic-logo-160x130.png" alt="Datomic" height="48"/></a>
+[![Databases](https://skillicons.dev/icons?i=postgres,redis,mongodb)](https://skillicons.dev)
 
 **Infra:**
 [![Infra](https://skillicons.dev/icons?i=docker,kafka,kubernetes,gcp,aws,git,githubactions,linux)](https://skillicons.dev)
