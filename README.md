@@ -23,16 +23,21 @@
 ### 🛠 Tech Stack
 
 **Backend:**
+
 [![Backend](https://skillicons.dev/icons?i=clojure,nodejs,py,java,graphql)](https://skillicons.dev)
 
 **Frontend:**
+
 [![Frontend](https://skillicons.dev/icons?i=js,ts,react)](https://skillicons.dev)
 
 **Mobile:**
+
 [![Mobile](https://skillicons.dev/icons?i=react,dart,flutter)](https://skillicons.dev)
 
 **Databases:**
+
 [![Databases](https://skillicons.dev/icons?i=postgres,redis,mongodb)](https://skillicons.dev)
 
 **Infra:**
+
 [![Infra](https://skillicons.dev/icons?i=docker,kafka,kubernetes,gcp,aws,git,githubactions,linux)](https://skillicons.dev)
