@@ -24,24 +24,24 @@
 
 **Backend:**
 
-[![Backend](https://skillicons.dev/icons?i=clojure,nodejs,py,java,graphql)](https://skillicons.dev)
+![Backend](https://skillicons.dev/icons?i=clojure,nodejs,py,java,graphql)
 
 **Frameworks:**
 
-[![Frameworks](https://skillicons.dev/icons?i=spring,express,nestjs,django)](https://skillicons.dev)
+![Frameworks](https://skillicons.dev/icons?i=spring,express,nestjs,django)
 
 **Frontend:**
 
-[![Frontend](https://skillicons.dev/icons?i=js,ts,react)](https://skillicons.dev)
+![Frontend](https://skillicons.dev/icons?i=js,ts,react)
 
 **Mobile:**
 
-[![Mobile](https://skillicons.dev/icons?i=react,dart,flutter)](https://skillicons.dev)
+![Mobile](https://skillicons.dev/icons?i=react,dart,flutter)
 
 **Databases:**
 
-[![Databases](https://skillicons.dev/icons?i=postgres,redis,mongodb)](https://skillicons.dev) <img src="assets/datomic.svg" alt="Datomic" width="48" height="48"/>
+![Databases](https://skillicons.dev/icons?i=postgres,redis,mongodb) <img src="assets/datomic.svg" alt="Datomic" width="48" height="48"/>
 
 **Infra:**
 
-[![Infra](https://skillicons.dev/icons?i=docker,kafka,kubernetes,gcp,aws,git,githubactions,linux)](https://skillicons.dev)
+![Infra](https://skillicons.dev/icons?i=docker,kafka,kubernetes,gcp,aws,git,githubactions,linux)
