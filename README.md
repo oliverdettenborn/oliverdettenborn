@@ -6,9 +6,9 @@
 
 👨🏽‍💻 Always learning something new
 
-🎓 Bachelor's Degree in Computer Science
+🎓 Análise e Desenvolvimento de Sistemas
 
-🔭 Software Engineer — Microservices Architecture, Clojure & Datomic
+🔭 Senior Software Engineer — Microservices Architecture, Clojure & Datomic
 
 <div align="center">
   <a href="https://www.linkedin.com/in/oliverdettenborn/">
