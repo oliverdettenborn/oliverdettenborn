@@ -20,7 +20,7 @@
 
 ---
 
-### 🛠 Tech Stack
+### 💻 Tech Stack
 
 **Backend:**
 
@@ -36,7 +36,7 @@
 
 **Databases:**
 
-[![Databases](https://skillicons.dev/icons?i=postgres,redis,mongodb)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=postgres,redis,mongodb)](https://skillicons.dev) <img src="assets/datomic.svg" alt="Datomic" width="48" height="48"/>
 
 **Infra:**
 
