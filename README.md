@@ -24,36 +24,24 @@
 
 **Backend:**
 
-![Backend](https://skillicons.dev/icons?i=clojure,nodejs,py,java,graphql)
-
-`Clojure · Node.js · Python · Java · GraphQL`
+<img src="https://skillicons.dev/icons?i=clojure" width="40" height="40"/> Clojure &nbsp; <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/> Node.js &nbsp; <img src="https://skillicons.dev/icons?i=py" width="40" height="40"/> Python &nbsp; <img src="https://skillicons.dev/icons?i=java" width="40" height="40"/> Java &nbsp; <img src="https://skillicons.dev/icons?i=graphql" width="40" height="40"/> GraphQL
 
 **Frameworks:**
 
-![Frameworks](https://skillicons.dev/icons?i=spring,express,nestjs,django)
-
-`Spring · Express · NestJS · Django`
+<img src="https://skillicons.dev/icons?i=spring" width="40" height="40"/> Spring &nbsp; <img src="https://skillicons.dev/icons?i=express" width="40" height="40"/> Express &nbsp; <img src="https://skillicons.dev/icons?i=nestjs" width="40" height="40"/> NestJS &nbsp; <img src="https://skillicons.dev/icons?i=django" width="40" height="40"/> Django
 
 **Frontend:**
 
-![Frontend](https://skillicons.dev/icons?i=js,ts,react)
-
-`JavaScript · TypeScript · React`
+<img src="https://skillicons.dev/icons?i=js" width="40" height="40"/> JavaScript &nbsp; <img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/> TypeScript &nbsp; <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/> React
 
 **Mobile:**
 
-![Mobile](https://skillicons.dev/icons?i=react,dart,flutter)
-
-`React Native · Dart · Flutter`
+<img src="https://skillicons.dev/icons?i=react" width="40" height="40"/> React Native &nbsp; <img src="https://skillicons.dev/icons?i=dart" width="40" height="40"/> Dart &nbsp; <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40"/> Flutter
 
 **Databases:**
 
-![Databases](https://skillicons.dev/icons?i=postgres,redis,mongodb) <img src="assets/datomic.svg" alt="Datomic" width="48" height="48"/>
-
-`PostgreSQL · Redis · MongoDB · Datomic`
+<img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"/> PostgreSQL &nbsp; <img src="https://skillicons.dev/icons?i=redis" width="40" height="40"/> Redis &nbsp; <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/> MongoDB &nbsp; <img src="assets/datomic.svg" width="40" height="40"/> Datomic
 
 **Infra:**
 
-![Infra](https://skillicons.dev/icons?i=docker,kafka,kubernetes,gcp,aws,git,githubactions,linux)
-
-`Docker · Kafka · Kubernetes · GCP · AWS · Git · GitHub Actions · Linux`
+<img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/> Docker &nbsp; <img src="https://skillicons.dev/icons?i=kafka" width="40" height="40"/> Kafka &nbsp; <img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40"/> Kubernetes &nbsp; <img src="https://skillicons.dev/icons?i=gcp" width="40" height="40"/> GCP &nbsp; <img src="https://skillicons.dev/icons?i=aws" width="40" height="40"/> AWS &nbsp; <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/> Git &nbsp; <img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40"/> GitHub Actions &nbsp; <img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/> Linux
