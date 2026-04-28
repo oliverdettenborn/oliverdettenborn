@@ -1,0 +1,7 @@
+[
+    {
+        "path": "README.md",
+        "policy": "EmailPolicy",
+        "justification": "Public GitHub profile README - contact email is intentionally public"
+    }
+]
