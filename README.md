@@ -26,22 +26,34 @@
 
 ![Backend](https://skillicons.dev/icons?i=clojure,nodejs,py,java,graphql)
 
+`Clojure · Node.js · Python · Java · GraphQL`
+
 **Frameworks:**
 
 ![Frameworks](https://skillicons.dev/icons?i=spring,express,nestjs,django)
+
+`Spring · Express · NestJS · Django`
 
 **Frontend:**
 
 ![Frontend](https://skillicons.dev/icons?i=js,ts,react)
 
+`JavaScript · TypeScript · React`
+
 **Mobile:**
 
 ![Mobile](https://skillicons.dev/icons?i=react,dart,flutter)
+
+`React Native · Dart · Flutter`
 
 **Databases:**
 
 ![Databases](https://skillicons.dev/icons?i=postgres,redis,mongodb) <img src="assets/datomic.svg" alt="Datomic" width="48" height="48"/>
 
+`PostgreSQL · Redis · MongoDB · Datomic`
+
 **Infra:**
 
 ![Infra](https://skillicons.dev/icons?i=docker,kafka,kubernetes,gcp,aws,git,githubactions,linux)
+
+`Docker · Kafka · Kubernetes · GCP · AWS · Git · GitHub Actions · Linux`
